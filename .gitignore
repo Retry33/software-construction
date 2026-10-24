@@ -1,0 +1,16 @@
+# Go
+*.exe
+*.test
+*.out
+coverage.*
+bin/
+dist/
+
+# скомпилированный бинарь проекта
+vyshkat/vyshkat
+
+# окружение / IDE
+.venv/
+.idea/
+.vscode/
+.DS_Store
